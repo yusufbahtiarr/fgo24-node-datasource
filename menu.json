@@ -1,26 +1,26 @@
 {
-    "foods": [
+    "Makanan": [
       { "name": "Ayam Betutu", "price": 60000 },
       { "name": "Spicy Chicken", "price": 50000 },
       { "name": "Honey Butter Rice", "price": 45000 },
       { "name": "Chicken Katsu", "price": 55000 },
       { "name": "Chicken Steak", "price": 65000 }
     ],
-    "appetizers": [
+    "Appetizer": [
       { "name": "Avocado Shrimp Salad", "price": 45000 },
       { "name": "Mushroom Soup", "price": 40000 },
       { "name": "Sharing Platter", "price": 65000 },
       { "name": "Mango Chicken Salad", "price": 50000 },
       { "name": "Peanut Sesame Salad", "price": 55000 }
     ],
-    "snacks": [
+    "Snacks": [
       { "name": "Chicken Wings", "price": 40000 },
       { "name": "Chicken Karage", "price": 40000 },
       { "name": "Cheese Fries", "price": 35000 },
       { "name": "Cajun Fries", "price": 35000 },
       { "name": "Mashroom Fish Ball", "price": 40000 }
     ],
-    "drinks": [
+    "Minuman": [
       { "name": "Sunshine Blast", "price": 35000 },
       { "name": "Green Sour", "price": 35000 },
       { "name": "Pineapple Toe", "price": 35000 },
